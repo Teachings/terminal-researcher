@@ -51,7 +51,7 @@ pip install -r requirements.txt
 To set up the project locally, clone the repository:
 
 ```bash
-git clone <this repo>
+git clone https://github.com/Teachings/terminal-researcher.git
 cd terminal-researcher
 ```
 
