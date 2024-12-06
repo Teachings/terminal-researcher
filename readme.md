@@ -28,7 +28,7 @@ The Terminal Researcher is a terminal-based chat application that interacts with
 #### **Prerequisites**
 
 - Python 3.8 or higher
-- An internet connection to communicate with the API
+- Ollama and Perplexica installed locally in docker environment to communicate with the API
 - [Anaconda](https://www.anaconda.com/) installed on your system (if using a Conda environment)
 
 #### **Clone the Repository**
