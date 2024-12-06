@@ -4,7 +4,7 @@
     "history_limit":3,
     "chat_model": {
         "provider": "ollama",
-        "model": "marco-o1:latest"
+        "model": "llama3.2:latest"
     },
     "embedding_model": {
         "provider": "ollama",

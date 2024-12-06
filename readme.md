@@ -1,4 +1,4 @@
-## **Terminal Client**
+## **Terminal Researcher**
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### **Introduction**
 
-The Terminal Client is a terminal-based chat application that interacts with the **Perplexica REST API** to provide answers to user queries. It also logs chat history and any external sources referenced in the responses. You need to get [Perplexica](https://github.com/ItzCrazyKns/Perplexica) up and running as a prequisite. This guide walks you through the setup, usage, and detailed functionality of the application.
+The Terminal Researcher is a terminal-based chat application that interacts with the **Perplexica REST API** to provide answers to user queries. It also logs chat history and any external sources referenced in the responses. You need to get [Perplexica](https://github.com/ItzCrazyKns/Perplexica) up and running as a prequisite. This guide walks you through the setup, usage, and detailed functionality of the application.
 
 ---
 
