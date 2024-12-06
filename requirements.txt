@@ -1,0 +1,9 @@
+# This file lists all the dependencies needed for this app to run correctly
+# You can install the requirements using pip with the following command:
+#     pip install -r requirements.txt
+
+# General dependencies
+requests # For HTTP requests
+termcolor 
+rich
+websockets

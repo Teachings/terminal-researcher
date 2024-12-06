@@ -1,0 +1,15 @@
+{
+    "base_url": "http://localhost:3001",
+    "timeout": 60,
+    "history_limit":3,
+    "chat_model": {
+        "provider": "ollama",
+        "model": "marco-o1:latest"
+    },
+    "embedding_model": {
+        "provider": "ollama",
+        "model": "nomic-embed-text:latest"
+    },
+    "optimization_mode": "balanced",
+    "focus_mode": "webSearch"
+}

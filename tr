@@ -1,0 +1,10 @@
+#!/bin/bash
+# Activate the Conda environment
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate terminal-researcher
+
+# Navigate to the directory containing chat.py
+cd ~/dev-ai/terminal-researcher
+
+# Run the Python script with passed arguments
+python chat.py "$@"
