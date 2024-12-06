@@ -31,21 +31,6 @@ The Terminal Researcher is a terminal-based chat application that interacts with
 - An internet connection to communicate with the API
 - [Anaconda](https://www.anaconda.com/) installed on your system (if using a Conda environment)
 
-#### **Install Dependencies**
-
-If using Conda, ensure the `terminal-researcher` environment is active, and install dependencies:
-
-```bash
-conda create --name terminal-researcher python=3.11 pip
-conda activate terminal-researcher
-pip install requests termcolor rich
-```
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 #### **Clone the Repository**
 
 To set up the project locally, clone the repository:
@@ -55,6 +40,19 @@ git clone https://github.com/Teachings/terminal-researcher.git
 cd terminal-researcher
 ```
 
+#### **Install Dependencies**
+
+If using Conda, ensure the `terminal-researcher` environment is active, and install dependencies:
+
+```bash
+conda create --name terminal-researcher python=3.11 pip
+conda activate terminal-researcher
+```
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ### **Configuration**
